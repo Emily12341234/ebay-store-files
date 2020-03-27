@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+/*---Inner Page->START*/
+.innerblack-rd {
+	width: 710px;
+	clear: both;
+	padding: 0px;
+	float: left;
+}
+.innerpage-title {
+	width: 97%;
+	float: left;
+	margin: 0 0 10px 0;
+	padding: 8px;
+	font-size: 30px;
+	font-weight: normal;
+	font-family: 'Boogaloo', cursive;
+	color: #000;
+	text-decoration: none;
+	text-align: left;
+	background: none;
+	text-transform: uppercase;
+	border: 2px solid #000;
+	text-indent: 15px;
+}
+.innerpage-gentext {
+	font-family: 'Boogaloo', cursive;
+	font-size: 16px;
+	color: #000;
+	text-decoration: none;
+	text-align: justify;
+	width: 98%;
+	margin: 0;
+	float: left;
+	padding: 0 1%;
+	background: none;
+	text-transform: uppercase;
+}
+.innerpage-gentext a {
+	color: #000 !important;
+	text-decoration: underline;
+}
+.innerpage-gentext a:hover {
+	color: #fa0003 !important;
+	text-decoration: underline;
+}
+.innerpage-gentext h1 {
+	font-family: 'Boogaloo', cursive;
+	font-size: 22px;
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+	width: 100%;
+	margin: 0 0 20px 0;
+	float: left;
+	padding: 0;
+	background: none;
+	text-transform: uppercase;
+}
+.innerpage-gentext h2 {
+	font-family: 'Boogaloo', cursive;
+	font-size: 22px;
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+	width: 100%;
+	margin: 0 0 20px 0;
+	float: left;
+	padding: 0;
+	background: none;
+	text-transform: uppercase;
+}
+.about-logo {
+	width: 100%;
+	float: left;
+	margin: 0 0 20px 0;
+	padding: 0;
+	text-align: center;
+}
+.about-txt {
+	width: 100%;
+	float: left;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
