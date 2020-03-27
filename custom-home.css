@@ -149,9 +149,9 @@ body {
 	background: none;
 }
 .browse-all {
-	width: 97%;
+	width: 100%;
 	float: left;
-	margin: 5px 1.5% 20px;
+	margin: 5px 0 0 0;
 	padding: 0;
 }
 .browse-all a {
