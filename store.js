@@ -84,7 +84,7 @@ $f(document).ready(function(){
 $f(window).load(function(){
 	$f.ajax({	
 	method : "post",
-	url : "https://masud1995.github.io/emilystorefiles/index.php",
+	url : "https://drive.google.com/uc?id=1gHJ6QNS4lpegWgJfvq4ztcrcoxYyskpz",
 	async:false,
 	data:"newarrival=1",
 	success: function(result){
