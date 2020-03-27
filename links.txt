@@ -1,0 +1,17 @@
+CSS links
+https://masud1995.github.io/emilystorefiles/custom-home.css
+https://masud1995.github.io/emilystorefiles/custompage.css
+https://masud1995.github.io/emilystorefiles/flexslider.css
+https://masud1995.github.io/emilystorefiles/jquery-ui.min.css
+https://masud1995.github.io/emilystorefiles/product_featured.css
+https://masud1995.github.io/emilystorefiles/product-details.css
+https://masud1995.github.io/emilystorefiles/store.css
+
+JS links
+https://masud1995.github.io/emilystorefiles/jquery.bxslider.min.js
+https://masud1995.github.io/emilystorefiles/jquery.flexslider.js
+https://masud1995.github.io/emilystorefiles/jquery.js
+https://masud1995.github.io/emilystorefiles/jquery-ui.min.js
+https://masud1995.github.io/emilystorefiles/pngFix.js
+https://masud1995.github.io/emilystorefiles/product_featured.js
+https://masud1995.github.io/emilystorefiles/store.js
