@@ -81,14 +81,14 @@ $f(document).ready(function(){
 });;
 
 
-$f(window).load(function(){
-	$f.ajax({	
-	method : "post",
-	url : "https://masud1995.github.io/emilystorefiles/index.php",
-	async:false,
-	data:"newarrival=1",
-	success: function(result){
-		$f("#product_featured").html(result);								
-	},
-});
+// $f(window).load(function(){
+// 	$f.ajax({	
+// 	method : "post",
+// 	url : "https://masud1995.github.io/emilystorefiles/index.php",
+// 	async:false,
+// 	data:"newarrival=1",
+// 	success: function(result){
+// 		$f("#product_featured").html(result);								
+// 	},
+// });
 });
