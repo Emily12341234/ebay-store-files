@@ -15,13 +15,14 @@ $f(document).ready(function(){
 	//$(document).bind("contextmenu",function(e){ return false;});
 	
 	//Content Area Mods
-	$f(".org-cathead").parent().closest('div').addClass("myCtg");
+	
 	$f(".pagecontainer > table:eq(1)").addClass("org-background");
 	$f(".pagecontainer > table:eq(1) tr:first td:first").addClass("org-main");
 	$f(".org-background table:eq(1)").addClass("org-content");
 	
 	//Getting and Setting Store Categories
 	//document.getElementById("org-cathead").innerHTML =
+	$f("#org-cathead").parent().closest('div').addClass("myCtg");
 	
 	if($f("#org-categories").length > 0) {
 		if($f("#LeftPanel .lcat").length > 0) {
