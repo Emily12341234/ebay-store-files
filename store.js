@@ -23,6 +23,9 @@ $f(document).ready(function(){
 	//Getting and Setting Store Categories
 	//document.getElementById("org-cathead").innerHTML =
 	$f("#org-cathead").parent().closest('div').addClass("myCtg");
+	$f(".myCtg").text(function () {
+	    return $f(this).text().replace("Enter your text her", ""); 
+	});
 	
 	if($f("#org-categories").length > 0) {
 		if($f("#LeftPanel .lcat").length > 0) {
