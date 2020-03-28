@@ -26,6 +26,10 @@ $f(document).ready(function(){
 	$f(".myCtg").html(function () {
 	    return $f(this).html().replace("Enter your text her", ""); 
 	});
+	//e to display on your page
+	$f(".myCtg").html(function () {
+	    return $f(this).html().replace("e to display on your page", ""); 
+	});
 	
 	if($f("#org-categories").length > 0) {
 		if($f("#LeftPanel .lcat").length > 0) {
