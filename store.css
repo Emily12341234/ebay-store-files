@@ -459,19 +459,19 @@ a.linkopac:hover img {
 	display: none;
 }
 #org-cathead {
-	width: 230px;
-	float: left;
-	margin: 0 0 10px 0;
-	padding: 8px;
-	font-size: 30px;
-	font-weight: normal;
-	font-family: 'Boogaloo', cursive;
-	color: #000;
-	text-decoration: none;
-	text-align: center;
-	background: none;
-	text-transform: uppercase;
-	border: 2px solid #000;
+    width: 230px;
+    float: left;
+    margin: 0 0 10px 0;
+    padding: 8px;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: arial;
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+    background: none;
+    text-transform: uppercase;
+    border: 2px solid #000;
 }
 #ctgs {
     width: 100%;
