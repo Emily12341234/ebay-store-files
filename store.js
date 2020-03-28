@@ -15,6 +15,7 @@ $f(document).ready(function(){
 	//$(document).bind("contextmenu",function(e){ return false;});
 	
 	//Content Area Mods
+	$f(".org-cathead").parent().closest('div').addClass("myCtg");
 	$f(".pagecontainer > table:eq(1)").addClass("org-background");
 	$f(".pagecontainer > table:eq(1) tr:first td:first").addClass("org-main");
 	$f(".org-background table:eq(1)").addClass("org-content");
