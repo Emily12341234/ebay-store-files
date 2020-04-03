@@ -887,7 +887,7 @@ a.linkopac:hover img {
 	margin: 4px !important;
 }
 #org-menu li {
-	margin: 0 18px
+	margin: 0 8px
 }
 #org-newsletter #org-signup {
 	margin: 3px 20px
@@ -900,6 +900,9 @@ a.linkopac:hover img {
 	background-attachment: inherit;
 	background-repeat: repeat-y;
 }
+#org-menu li {
+ margin: 0 8px
+}
 }
 @media screen and ( max-width: 980px ) {
 .org-background {
@@ -907,5 +910,8 @@ a.linkopac:hover img {
 	display: table;
 	background-attachment: inherit;
 	background-repeat: repeat-y;
+}
+#org-menu li {
+	margin: 0 8px
 }
 }
