@@ -365,7 +365,7 @@ a.linkopac:hover img {
     background: #fff;
     color: #000;
 }
-#org-menu li a.active {
+#org-menu li a.tw-active {
     background: #fff;
     color: #000;
 }
