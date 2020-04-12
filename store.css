@@ -879,8 +879,8 @@ a.linkopac:hover img {
 .category ul li {
 	margin: 4px !important;
 }
-#org-menu li {
-	margin: 0 18px
+#org-menu li a {
+	padding: 16px 9px !important;
 }
 #org-newsletter #org-signup {
 	margin: 3px 20px
@@ -890,8 +890,8 @@ a.linkopac:hover img {
 .category ul li {
 	margin: 4px !important;
 }
-#org-menu li {
-	margin: 0 8px
+#org-menu li a {
+	padding: 16px 9px !important;
 }
 #org-newsletter #org-signup {
 	margin: 3px 20px
@@ -904,8 +904,8 @@ a.linkopac:hover img {
 	background-attachment: inherit;
 	background-repeat: repeat-y;
 }
-#org-menu li {
- margin: 0 8px
+#org-menu li a {
+ padding: 16px 9px !important;
 }
 }
 @media screen and ( max-width: 980px ) {
@@ -915,7 +915,7 @@ a.linkopac:hover img {
 	background-attachment: inherit;
 	background-repeat: repeat-y;
 }
-#org-menu li {
-	margin: 0 8px
+#org-menu li a {
+	padding: 16px 9px !important;
 }
 }
