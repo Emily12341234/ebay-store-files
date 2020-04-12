@@ -362,7 +362,8 @@ a.linkopac:hover img {
 }
 */
 #org-menu li a:hover {
-	border-bottom: 1px solid #fa0003;
+    background: #fff;
+    color: #000;
 }
 #org-menu li:last-child {
 	float: right;
