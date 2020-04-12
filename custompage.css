@@ -25,7 +25,7 @@
 }
 .innerpage-gentext {
     font-family: arial;
-    font-size: 14px;
+    font-size: 15px;
     color: #000;
     text-decoration: none;
     text-align: justify;
@@ -34,8 +34,8 @@
     float: left;
     padding: 0 1%;
     background: none;
-    text-transform: uppercase;
     line-height: 20px;
+    font-weight: 600;
 }
 .innerpage-gentext a {
 	color: #000 !important;
