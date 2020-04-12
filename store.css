@@ -319,6 +319,8 @@ a.linkopac:hover img {
     transition: all 0.5s ease;
     text-transform: uppercase;
     text-align: center;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
 }
 /*
 #org-menu li {
