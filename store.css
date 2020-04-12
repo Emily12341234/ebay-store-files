@@ -378,13 +378,12 @@ a.linkopac:hover img {
 #org-menu li:last-child {
 	float: right;
 	margin: 0;
-	border-top: 1px solid #000;
-    	border-bottom: 1px solid #000;
 }
 #org-menu li:last-child a {
 	margin: 0;
 	padding: 0;
-	border: 0 none;
+	border-top: 1px solid #000;
+    	border-bottom: 1px solid #000;
 }
 #banner-holder {
 	width: 100%;
