@@ -300,7 +300,6 @@ a.linkopac:hover img {
 #org-menu li {
 	float: left;
 	width: auto;
-	margin: 0 15px;
 	list-style: none;
 	padding: 0;
 	transition: all 0.5s ease;
@@ -310,7 +309,7 @@ a.linkopac:hover img {
     width: auto;
     float: left;
     margin: 0;
-    padding: 18px 0 5px;
+    padding: 15px 14px;
     color: #fff;
     font-size: 16px;
     font-family: arial;
