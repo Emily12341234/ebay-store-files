@@ -290,6 +290,7 @@ a.linkopac:hover img {
 	padding: 0;
 	display: table;
 	background: #000;
+	border-left: 1px solid #000;
 }
 #org-menu ul {
 	width: 100%;
@@ -309,7 +310,7 @@ a.linkopac:hover img {
     width: auto;
     float: left;
     margin: 0;
-    padding: 15px 14px;
+    padding: 16px 14px;
     color: #fff;
     font-size: 16px;
     font-family: arial;
@@ -318,7 +319,6 @@ a.linkopac:hover img {
     transition: all 0.5s ease;
     text-transform: uppercase;
     text-align: center;
-    border-bottom: 1px solid #000;
 }
 /*
 #org-menu li {
@@ -362,6 +362,10 @@ a.linkopac:hover img {
 }
 */
 #org-menu li a:hover {
+    background: #fff;
+    color: #000;
+}
+#org-menu li a.active {
     background: #fff;
     color: #000;
 }
