@@ -51,8 +51,8 @@ $f(document).ready(function(){
         $f("#allctg").prepend("<li class='separator-top'>Categories by Items</li>");
         $f("#allctg li").each(function(n) {
             var v = $f("#allctg li").eq(n).find("a").text();
-            if(v == "Animals - Dogs, Cats & More"){
-                $f("#allctg li").eq(n).before("<li class='separator-middle'>Categories by Topics</li>");
+            if(v == "White t-shirts"){
+                $f("#allctg li").eq(n).after("<li class='separator-middle'>Categories by Topics</li>");
             }
         });
 	
