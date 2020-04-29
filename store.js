@@ -53,6 +53,7 @@ $f(document).ready(function(){
             var v = $f("#allctg li").eq(n).find("a").text();
             if(v == "White t-shirts"){
                 $f("#allctg li").eq(n).after("<li class='separator-middle'>Categories by Topics</li>");
+		break;
             }
         });
 	
