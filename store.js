@@ -87,7 +87,7 @@ $f(document).ready(function(){
 		}
 	}
 
-});;
+});
 
 
 // $f(window).load(function(){
